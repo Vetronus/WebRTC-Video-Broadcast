@@ -3,7 +3,7 @@ const config = {
   iceServers: [
     {
       //urls: ["stun:stun.skyway.io:3478"]
-      urls: ["stun:stunserver.org:3478", "stun:stun.l.google.com:19302", "stun:stun1.l.google.com:19302", "stun.2talk.com:3478"]
+      urls: ["stun:stunserver.org:3478", "stun:stun.l.google.com:19302", "stun:stun1.l.google.com:19302", "stun:stun.2talk.com:3478"]
     }
   ]
 };
