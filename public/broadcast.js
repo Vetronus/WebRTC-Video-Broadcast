@@ -2,7 +2,7 @@ const peerConnections = {};
 const config = {
   iceServers: [
     {
-      urls: ["stun:stun.l.google.com:19302"]
+      urls: ["stun:stun.skyway.io:3478"]
     }
   ]
 };
